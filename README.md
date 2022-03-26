@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning/Data Science
 - 👯 I’m looking to collaborate on Deep Learning
 - 💬 Ask me about: Machine Learning, Computer Vision, Software Enigneering 
-- 📫 How to reach me: mahmoud.elhusseini@g2k-group.com
+- 📫 How to reach me:  mahmud@duck.com
 - ⚡ Fun fact: Don't trust your model
 
 
