@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MElHuseyni" alt="MElHuseyni" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning for Smart Cites,Retail and Medical Image Analysis**
+-  💼  Working as Machine Learning Engineer [G2K](https://g2k.ai/en/).
 
 ### Connect with me:
 
