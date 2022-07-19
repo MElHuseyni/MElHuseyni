@@ -11,8 +11,6 @@
 
 [<img align="left" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22px" />](https://www.linkedin.com/in/melhussieni/)
 
-()
-
 <br />
 <br />
 
