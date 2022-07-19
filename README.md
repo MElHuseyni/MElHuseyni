@@ -10,7 +10,10 @@
 [<img align="left" alt="Mahmud | email" width="50" height="50" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/outlook.png" />](mailto:mahmoud.elhusseini@g2k-group.com)
 
 [<img align="left" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22px" />]([https://www.linkedin.com/in/Raamyy](https://www.linkedin.com/in/melhussieni/))
-</br>
+
+
+<br />
+<br />
 
 
 ### Languages and Tools:
