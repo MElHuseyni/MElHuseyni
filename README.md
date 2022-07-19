@@ -36,6 +36,9 @@
 <br />
 <br />
 
+[![MElHuseyni's github stats](https://github-readme-stats.vercel.app/api?username=MElHuseyni&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/MElHuseyni?tab=repositories)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MElHuseyni&layout=compact" alt="mcvarer" /></p>
 
 
