@@ -1,9 +1,10 @@
 <h1 align="center">Welcome I am Mahmud 👋 </h1>
-<h3 align="center">Machine Learning Researcher / Engineer at G2K-Group</h3>
+<h3 align="center"> Senior Machine Learning Engineer at G2K-Group M.Sc. in Computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MElHuseyni" alt="MElHuseyni" /> </p>
 
--  💼  Working as Machine Learning Engineer [G2K](https://g2k.ai/en/).
+-  💼  Working as Senior Machine Learning Engineer [G2K](https://g2k.ai/en/).
+Senior Data Analyst and M.Sc. in Data Science
 
 ### Connect with me:
 
