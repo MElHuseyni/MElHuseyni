@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MElHuseyni" alt="MElHuseyni" /> </p>
 
--  💼  Working as Senior Machine Learning Engineer [G2K](https://g2k.ai/en/).
+-  💼  Working as Senior Machine Learning Engineer [G2K](https://g2k.ai/en/) and M.Sc. at [Medipol University](https://www.medipol.edu.tr/en)
 
 ### Connect with me:
 
