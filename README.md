@@ -1,5 +1,5 @@
 <h1 align="center">Welcome I am Mahmud 👋 </h1>
-<h3 align="center"> Senior Machine Learning Engineer and M.Sc. in Computer science</h3>
+<h3 align="center"> Senior Machine Learning Engineer and M.Sc. Student in Computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MElHuseyni" alt="MElHuseyni" /> </p>
 
